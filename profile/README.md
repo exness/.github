@@ -1,4 +1,4 @@
-## Welcome to Exness GitHub 
+![2360_Github banner_1590x530](https://user-images.githubusercontent.com/89693898/224308755-2b395b41-8878-4bb5-99cd-82c3d881c2f3.png)
 
 Exness is a multi-asset broker with an international team of approximately 2000 people, a third of whom work in the Technology, Data and Security offices. Our goal in Exness is to develop exceptional products that will help experienced traders to trade various assets with better-than-market conditions.
 
@@ -9,3 +9,4 @@ Our chosen path encourages employees to deepen their technical expertise, rely o
 Our clusters are automatically managed through the code and can handle thousands of events per second. We use Kafka to decentralize our service, and the main languages our tech team uses are Python and Go while in the Trading Core, we also use C++ and C#.
 
 For the front-end, we use React, and most of the projects are TypeScript SPAs using technologies such as Web-sockets, Service Worker, PWA, Web-push, AB-testing, and Webpack Federation.
+
