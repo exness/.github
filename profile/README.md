@@ -1,4 +1,4 @@
-![2360_Github banner_1590x530](https://user-images.githubusercontent.com/89693898/224308755-2b395b41-8878-4bb5-99cd-82c3d881c2f3.png)
+![2360_Github banner_1590x530](https://github.com/exness/.github/blob/dacc0ff7e92a99530d22156bc0371a933c9d81e5/profile/github_banner.png)
 
 Exness is a multi-asset broker with an international team of approximately 2000 people, a third of whom work in the Technology, Data and Security offices. Our goal in Exness is to develop exceptional products that will help experienced traders to trade various assets with better-than-market conditions.
 
